@@ -15,7 +15,7 @@
     </button>
 
     <p class="authorise__credit">
-      <a href="https://github.com/jonashcroft/Nowify">View on GitHub</a>
+      <a href="https://github.com/ayaangrover/Nowify">View on GitHub</a>
     </p>
   </div>
 </template>
