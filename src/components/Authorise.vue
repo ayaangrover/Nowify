@@ -179,11 +179,11 @@ export default {
      */
     setAuthUrl() {
       searchParams.toString()
-      searchParams.append('client_id', 0c2c73e0fbbe4f20bf0f99477fbb1326)
+      searchParams.append('client_id', '0c2c73e0fbbe4f20bf0f99477fbb1326')
       searchParams.append('response_type', 'code')
-      searchParams.append('redirect_uri', celadon-bavarois-8351fd.netlify.app)
+      searchParams.append('redirect_uri', 'https://celadon-bavarois-8351fd.netlify.app/')
       searchParams.append(
-        'state',
+        'state',  
         [
           Math.random()
             .toString(33)
