@@ -179,7 +179,7 @@ export default {
      */
     setAuthUrl() {
       searchParams.toString()
-      searchParams.append('client_id', this.auth.clientId)
+      searchParams.append('client_id', 0c2c73e0fbbe4f20bf0f99477fbb1326)
       searchParams.append('response_type', 'code')
       searchParams.append('redirect_uri', window.location.origin)
       searchParams.append(
